@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b3fd964-5a25-4f54-b35f-caff864b67a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Weeklython._Prototype-0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Weeklython._Prototype-0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CHANGELOG" beforeDir="false" afterPath="$PROJECT_DIR$/../../CHANGELOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../code-samples/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../../code-samples/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-samples/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../../data-samples/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datasets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../../datasets/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../materials/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../../materials/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../materials/tickets/ticket_42_1001.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../materials/tickets/ticket_42_1001.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../materials/tickets/ticket_42_1002.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../materials/tickets/ticket_42_1002.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../materials/tickets/ticket_42_1003.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../materials/tickets/ticket_42_1003.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../materials/tickets/ticket_42_1004.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../materials/tickets/ticket_42_1004.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../../misc/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/images/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../../misc/images/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/images/Prototype.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../misc/images/Prototype.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/ad.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/ad.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/api.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/api.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/cd.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/cd.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/components.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../project/components.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/db.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../project/db.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/db.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/db.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/erd.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../project/erd.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/idef0.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../project/idef0.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/idef0.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/idef0.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/methods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/solutions.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/solutions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/subject.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/subject.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/team.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/technologies.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/technologies.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/ui.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/ui.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/usecase.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../project/usecase.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/ux.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project/ux.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prototype.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prototype.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.db" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DbXglYq5E2aIyIX2RFVHwsSIm4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/janiecee/Documents/21School/Weeklython._Prototype-0/src/prototype/app.py&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="votebot" type="PythonConfigurationType" factoryName="Python">
+      <module name="prototype" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b3fd964-5a25-4f54-b35f-caff864b67a6" name="Changes" comment="" />
+      <created>1660968870848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660968870848</updated>
+      <workItem from="1660968874892" duration="1280000" />
+      <workItem from="1660970258010" duration="982000" />
+      <workItem from="1660971289350" duration="830000" />
+      <workItem from="1661004719403" duration="36000" />
+      <workItem from="1661155797539" duration="1423000" />
+      <workItem from="1661160117928" duration="19134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/prototype$votebot.coverage" NAME="votebot Coverage Results" MODIFIED="1661183279229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prototype$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1660970053850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/prototype$prototype.coverage" NAME="prototype Coverage Results" MODIFIED="1661168999849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
